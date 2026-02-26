@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Builder",
+  "description": "A full-stack application that generates websites using Google Gemini and runs them in WebContainers.",
+  "requestFramePermissions": []
+}
